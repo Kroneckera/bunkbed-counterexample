@@ -1,6 +1,6 @@
 # The Bunkbed Conjecture Counterexample
 
-This repository contains a Jupyter Notebook titled `bunkbed_counterexample.ipynb`, which constructs a counterexample to the bunkbed conjecture. The notebook is based on a joint paper authored by Nikita Gladkov, Igor Pak, and Aleksandr Zimin.
+This repository contains a Jupyter Notebook titled [`bunkbed_counterexample.ipynb`](./bunkbed_counterexample.ipynb), which constructs a counterexample to the bunkbed conjecture. The notebook is based on a joint paper authored by Nikita Gladkov, Igor Pak, and Aleksandr Zimin.
 
 ## Purpose
 
